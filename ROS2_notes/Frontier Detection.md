@@ -56,37 +56,25 @@ SLAM Toolbox
 
  |
 
-    ↓
-
   /map
 
     |
-
-    ↓
 
 Frontier Explorer
 
     |
 
-    ↓
-
 探索目标点 Goal Pose
 
     |
-
-    ↓
 
 NavigateToPose Action
 
     |
 
-    ↓
-
 Nav2
 
     |
-
-    ↓
 
 机器人探索
 
